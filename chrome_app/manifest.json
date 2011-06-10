@@ -1,0 +1,17 @@
+{
+  "name": "Stimulus Response Compatibility",
+  "description": "measures the difference between your compatible stimulus response and incompatible stimulus response",
+  "version": "1.0.0.0",
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "app": {
+    "urls": [
+      "http://www.lancewave.com/src_app/"
+    ],
+    "launch": {
+      "web_url": "http://www.lancewave.com/src_app/"
+    }
+  }
+}
+
